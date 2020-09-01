@@ -1,0 +1,43 @@
+body{
+	background: #f7f5f5;
+	padding: 15px;
+}
+
+.text-decoration{
+	text-decoration: underline;
+}
+
+.head-page>h3 {
+	text-decoration: underline;
+	padding-bottom: 30px;
+}
+
+.body-page{
+	direction: rtl;
+}
+
+.body-page>img{
+	height: 200px;
+	width: 650px;
+	padding-bottom: 20px;
+}
+
+.body-content{
+	direction: rtl;
+}
+
+.container>div>p{
+	direction: rtl;
+	/*margin-right: -55px;*/
+	font-size: 22px;
+}
+
+.contract-content {
+	direction: rtl;
+	margin-left: 50px;
+}
+
+.contract-head{
+	direction: rtl;
+	margin-left: 160px;
+}
